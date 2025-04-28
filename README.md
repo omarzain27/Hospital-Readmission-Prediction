@@ -92,6 +92,18 @@ plt.show()
 - **Data Visualization**: Build interactive dashboards with tools like Dash or Plotly.
 
 ---
+## Some Plots 
+
+
+
+![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot1.png)
+
+
+![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot4.png)
+
+
+
+![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot3.png)
 
 ### **Author**
 **Omar Zain**  
