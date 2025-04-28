@@ -96,14 +96,14 @@ plt.show()
 
 
 
-![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot1.png)
+![alt text](Gender of patient)
 
 
-![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot4.png)
+![alt text](https://github.com/omarzain27/Hospital-Readmission-Prediction/blob/main/Gender%20of%20patient.png)
 
 
 
-![alt text](https://github.com/omarzain27/School-donation-analysis/blob/main/screenshots/plot3.png)
+![alt text](https://github.com/omarzain27/Hospital-Readmission-Prediction/blob/main/Length%20of%20Readmission.png)
 
 ### **Author**
 **Omar Zain**  
